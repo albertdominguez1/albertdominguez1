@@ -4,9 +4,24 @@ title: "About Me"
   
 <center>
 # Hi, I'm Albert Dominguez.
+
+
+![](albertucsb.jpg){width=40%}
+
 </center>
+
+
+
 
 I am a senior at the University of California, Santa Barbara. I study Geography, Geographic Information Systems, and Education. Some of research interests include: demography, urban planning, transportation, and education among minority groups.
 
 Upon graduation, I plan on attending graduate school. My career goal is to become a college counselor. Ideally I would want to work for the college I transferred from, which is Oxnard College. I want to be a role model for the people in my community and I want to help them achieve their academic and career goals. 
 
+
+<center>
+Contact Information: 
+</center>
+
+<center>
+<i class="fa fa-envelope" aria-hidden="true"></i>  albertdominguez@ucsb.edu
+</center>

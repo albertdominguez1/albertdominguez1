@@ -1,11 +1,16 @@
----
-title: "Projects"
----
+
+## Projects <i class="fa fa-book" aria-hidden="true"></i>
+
+
+
 
 In the summer of 2020 I took a class GIS course based in R. I worte some code, and did some cool data science. Here is a collection of links! 
 
-## [Building a project website]()
 
-- In this assignment we built a static users site with Github Pages 
-- Includes a github repo for access to all the code.
-- Look at how high quality my work is!
+## [Lab 1](index.html)
+
+- This assignment required me to build a static users site with Github Pages 
+- Learned how to design user site through R, RStudio, and RMarkdown
+- Learned about the file types needed for a user site 
+- Learned about the libraries that can be utilized to customize user site
+
