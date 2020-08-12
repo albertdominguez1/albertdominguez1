@@ -13,7 +13,7 @@ navbar:
       icon: fa-file
   right:
     - icon: fa-github
-      href: https://github.com/albertdominguez1/geog176A_2020
+      href: https://albertdominguez1.github.io/albertdominguez1/
 output:
   html_document:
     theme: flatly 
