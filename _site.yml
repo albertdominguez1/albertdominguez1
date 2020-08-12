@@ -13,7 +13,7 @@ navbar:
       icon: fa-file
   right:
     - icon: fa-github
-      href: https://albertdominguez1.github.io/albertdominguez1/
+      href: https://github.com/albertdominguez1/albertdominguez1
 output:
   html_document:
     theme: flatly 
